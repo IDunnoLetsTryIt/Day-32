@@ -1,0 +1,12 @@
+students
+--------
+in INT
+email SHORT STRING
+phone number INT
+scheduled class DATETIME
+Work study SHORT STRING
+Nationality SHORT STRING
+Birthdate DATE
+is_present BOOLEAN
+
+
